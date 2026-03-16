@@ -1,0 +1,25 @@
+{ 
+  "menu": {
+    "type": "music",
+    "path": "assets/slowCurve.mp3",
+    "volume": 0.3
+  },
+  
+  "ehe": {
+    "type": "sound",
+    "path": "assets/ehe.wav",
+    "volume": 0.8
+    },
+
+  "fue": {
+    "type": "sound",
+    "path": "assets/fue.wav",
+    "volume": 0.8
+    },
+
+  "wah": {
+    "type": "sound",
+    "path": "assets/wah.wav",
+    "volume": 0.8
+    }
+}
