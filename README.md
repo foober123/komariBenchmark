@@ -15,8 +15,8 @@ raylib is included in the repo. run `make` to compile the program
 
 ## Controls
 Press the ff:
-`KEY_UP` - increment n by 1
-`KEY_DOWN` - decrement n by 1
+- `KEY_UP` - increment n by 1
+- `KEY_DOWN` - decrement n by 1
 
 ## Credits
 - [Timer Helpers](https://github.com/raylib-extras/examples-c/discussions/2)
