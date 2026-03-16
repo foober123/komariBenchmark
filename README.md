@@ -14,7 +14,7 @@ because im using copyrighted material, i cannot directly put the sprites and aud
 raylib is included in the repo. run `make` to compile the program
 
 ## Controls
-Press the ff
+Press the ff:
 `KEY_UP` - increment n by 1
 `KEY_DOWN` - decrement n by 1
 
