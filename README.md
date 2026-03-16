@@ -13,9 +13,6 @@ because im using copyrighted material, i cannot directly put the sprites and aud
 ## Compilation
 raylib is included in the repo. run `make` to compile the program
 
-## Features
-![Screenshot](doc/shop.png)
-  
 
 ## Credits
 - [Timer Helpers](https://github.com/raylib-extras/examples-c/discussions/2)
